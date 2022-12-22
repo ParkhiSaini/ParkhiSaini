@@ -3,7 +3,7 @@ Hi I'm Parkhi Saini. A 19 year old problem solver and game enthusiast getting he
 
 I am highly interested in Game developement and Visual effects, hoping to make it my career.
 
-Since it's been more than 3 years into programming I have picked up many skills and languages. Currently preparing mysellf in Data Structure and Algorithms and obviously making Games.
+Since it's been more than 3 years into programming I have picked up many skills and languages. Currently preparing myself in Data Structure and Algorithms and obviously making Games.
 
 # Languages
 

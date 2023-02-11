@@ -1,5 +1,5 @@
 # Indroduction
-Hi I'm Parkhi Saini. A 19 year old problem solver and game enthusiast getting her hands dirty in Software and Game development. Currently in 2nd year of College, Pursuing Bachelors in Technology for Computer Science Specializing in Game development.
+Hi I'm Parkhi Saini. A 20 year old problem solver and game enthusiast getting her hands dirty in Software and Game development. Currently in 2nd year of College, Pursuing Bachelors in Technology for Computer Science Specializing in Game development.
 
 I am highly interested in Game developement and Visual effects, hoping to make it my career.
 

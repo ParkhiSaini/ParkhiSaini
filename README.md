@@ -22,6 +22,16 @@ Since it's been more than 3 years into programming I have picked up many skills 
 - Adobe Photoshop
 
 <!--START_SECTION:waka-->
+
+```text
+CSS          3 hrs 36 mins   █████████████░░░░░░░░░░░░   52.10 %
+JavaScript   1 hr 52 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.12 %
+C#           1 hr 21 mins    █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+Git          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
 
 <img

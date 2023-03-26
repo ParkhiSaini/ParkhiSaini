@@ -35,14 +35,10 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/ParkhiSaini/ParkhiSaini/blob/<branch-name>/images/stat.svg"
   alt="Alternative Text"
 />
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+
 
 
 

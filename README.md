@@ -21,6 +21,8 @@ Since it's been more than 3 years into programming I have picked up many skills 
 - Blender
 - Adobe Photoshop
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <img
   src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"

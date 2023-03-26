@@ -34,10 +34,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img
-  src="https://github.com/ParkhiSaini/ParkhiSaini/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParkhiSaini&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 

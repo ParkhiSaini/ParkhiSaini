@@ -21,7 +21,8 @@ Since it's been more than 3 years into programming I have picked up many skills 
 - Blender
 - Adobe Photoshop
 
-# My Stats
+# Statistics
+[![wakatime](https://wakatime.com/badge/user/659f56cf-9635-4f70-9140-7dbdc934cfec.svg)](https://wakatime.com/@659f56cf-9635-4f70-9140-7dbdc934cfec)
 <!--START_SECTION:waka-->
 
 ```text
@@ -34,6 +35,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
 
 
 

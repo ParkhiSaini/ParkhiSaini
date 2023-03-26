@@ -21,6 +21,7 @@ Since it's been more than 3 years into programming I have picked up many skills 
 - Blender
 - Adobe Photoshop
 
+# My Stats
 <!--START_SECTION:waka-->
 
 ```text
@@ -34,7 +35,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParkhiSaini&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 
 

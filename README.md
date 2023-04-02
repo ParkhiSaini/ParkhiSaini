@@ -26,9 +26,9 @@ Since it's been more than 3 years into programming I have picked up many skills 
 <!--START_SECTION:waka-->
 
 ```text
-C#         13 hrs 24 mins  ███████████████████████▒░   93.52 %
-C++        50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Markdown   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+C#         12 hrs 28 mins  ███████████████████████▒░   93.07 %
+C++        50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->

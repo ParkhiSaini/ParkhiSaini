@@ -26,9 +26,10 @@ Since it's been more than 3 years into programming I have picked up many skills 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 24 mins   ████████████▒░░░░░░░░░░░░   48.70 %
-CSS          3 hrs 59 mins   ███████████░░░░░░░░░░░░░░   43.94 %
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+JavaScript   5 hrs 20 mins   ████████████▓░░░░░░░░░░░░   50.53 %
+CSS          3 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.79 %
+JSON         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 ```
 
 <!--END_SECTION:waka-->

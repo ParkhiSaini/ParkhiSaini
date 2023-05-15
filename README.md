@@ -26,9 +26,8 @@ Since it's been more than 3 years into programming I have picked up many skills 
 <!--START_SECTION:waka-->
 
 ```text
-C#           12 mins         ████████████████████████░   95.51 %
-Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+C#      12 mins         ████████████████████████▓   99.01 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->

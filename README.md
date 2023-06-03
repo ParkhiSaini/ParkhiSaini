@@ -25,9 +25,9 @@ Since it's been more than 3 years into programming I have picked up many skills 
 [![wakatime](https://wakatime.com/badge/user/659f56cf-9635-4f70-9140-7dbdc934cfec.svg)](https://wakatime.com/@659f56cf-9635-4f70-9140-7dbdc934cfec)
 <!--START_SECTION:waka-->
 
-```text
-C#           1 hr 49 mins    ████████████████████████░   96.66 %
-Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+```txt
+C#           1 hr 50 mins    █████████████████████████   99.61 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 

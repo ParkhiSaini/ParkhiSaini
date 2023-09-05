@@ -26,11 +26,10 @@ Since it's been more than 3 years into programming I have picked up many skills 
 <!--START_SECTION:waka-->
 
 ```txt
-C#           1 hr 1 min      █████████████████▒░░░░░░░   69.88 %
-Python       18 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-Git Config   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-TSQL         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python       18 mins         ████████████████████▓░░░░   82.98 %
+TSQL         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Git Config   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->

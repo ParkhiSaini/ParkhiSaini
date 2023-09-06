@@ -26,10 +26,7 @@ Since it's been more than 3 years into programming I have picked up many skills 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       18 mins         ████████████████████▓░░░░   82.98 %
-TSQL         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Git Config   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

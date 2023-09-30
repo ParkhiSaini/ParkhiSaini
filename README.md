@@ -26,7 +26,7 @@ Since it's been more than 3 years into programming I have picked up many skills 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#   21 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

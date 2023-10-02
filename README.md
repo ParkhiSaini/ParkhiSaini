@@ -24,10 +24,11 @@ Since it's been more than 3 years into programming I have picked up many skills 
 
 # Visual Effects
 
-- Unity Shuriken System
+- Unity Shuriken
+- Unreal Niagara
 - Unity Shader Graph
 - Unity VFX Graph
-- Unreal Niagara
+- Adobe Photoshop
 
 # Statistics
 [![wakatime](https://wakatime.com/badge/user/659f56cf-9635-4f70-9140-7dbdc934cfec.svg)](https://wakatime.com/@659f56cf-9635-4f70-9140-7dbdc934cfec)

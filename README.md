@@ -18,8 +18,16 @@ Since it's been more than 3 years into programming I have picked up many skills 
 # Softwares
 
 - Unity Game Engine
+- Unreal Game Engine
 - Blender
 - Adobe Photoshop
+
+  #Visual Effects
+
+  - Unity Shuriken System
+  - Unity Shader Graph
+  - Unity VFX Graph
+  - Unreal Niagara
 
 # Statistics
 [![wakatime](https://wakatime.com/badge/user/659f56cf-9635-4f70-9140-7dbdc934cfec.svg)](https://wakatime.com/@659f56cf-9635-4f70-9140-7dbdc934cfec)

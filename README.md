@@ -35,10 +35,9 @@ Since it's been more than 3 years into programming I have picked up many skills 
 <!--START_SECTION:waka-->
 
 ```txt
-C#       1 hr 38 mins    ██████████████████▒░░░░░░   73.36 %
-JSON     17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-Python   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Other    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+C#       4 hrs 10 mins   ███████████████████████▓░   94.50 %
+Python   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

@@ -1,19 +1,24 @@
 # Indroduction
-Hi I'm Parkhi Saini. A 20 year old problem solver and game enthusiast getting her hands dirty in Software and Game development. Currently in 3rd year of College, Pursuing Bachelors in Technology for Computer Science Specializing in Game development.
+Hi I'm Parkhi Saini, a 20 year old problem solver and game enthusiast getting her hands dirty in Software and Game development. Currently in 3rd year of College, pursuing Bachelors in Technology for Computer Science Specializing in Game development.
 
-I am highly interested in Game developement and Visual effects, hoping to make it my career.
+As someone who's fascinated by Technology and Art, I indulge myself in making complex visual effects and interesting games. But my creativity doesn't just stop there, with an interest in making shaders and animations, I also am a student of the Technical Arts which has been my obsession for quite some time now.
 
-Since it's been more than 3 years into programming I have picked up many skills and languages. Currently sharpening my skills in Game Development by making projects and doing intersnhips and also learning Data Structures and Algorithms.
+Being a student developer for over 3 years now, I have picked up my fair share of experiences and skills in the domain. Below listed are a few skills I'm really confident about.
 
 # Languages
 
+- C#
 - Python 
 - C++
-- C#
 - HTML 
 - CSS
 - SQL
-- Java
+
+# Technical Skills
+- Object Oriented Programming
+- Multiplayer in Unity using Photon(PUN2)
+- Playfab and Firebase Login
+- making DCC packages in Unity
 
 # Softwares
 

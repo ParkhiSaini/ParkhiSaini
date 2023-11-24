@@ -35,11 +35,15 @@ Since it's been more than 3 years into programming I have picked up many skills 
 <!--START_SECTION:waka-->
 
 ```txt
-C#           5 hrs 16 mins   ████████████████░░░░░░░░░   63.90 %
-HTML         1 hr 49 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
-CSS          1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Python       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+From: 21 December 2022 - To: 23 November 2023
+
+Total Time: 231 hrs 54 mins
+
+C#           175 hrs 19 mins ███████████████████░░░░░░   75.60 %
+JavaScript   23 hrs 12 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+CSS          20 hrs 48 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Other        2 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+HTML         2 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->

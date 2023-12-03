@@ -40,11 +40,11 @@ Being a student developer for over 3 years now, I have picked up my fair share o
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2022 - To: 30 November 2023
+From: 21 December 2022 - To: 01 December 2023
 
-Total Time: 235 hrs 21 mins
+Total Time: 235 hrs 27 mins
 
-C#           178 hrs 30 mins ███████████████████░░░░░░   75.84 %
+C#           178 hrs 35 mins ███████████████████░░░░░░   75.85 %
 JavaScript   23 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
 CSS          20 hrs 48 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
 Other        2 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %

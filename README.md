@@ -40,7 +40,7 @@ Being a student developer for over 3 years now, I have picked up my fair share o
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2022 - To: 01 December 2023
+From: 21 December 2022 - To: 03 December 2023
 
 Total Time: 235 hrs 27 mins
 

@@ -16,6 +16,9 @@ Being a student developer for over 3 years now, I have picked up my fair share o
 
 # Technical Skills
 - Object Oriented Programming
+- Optimisation in Unity
+- Modelling in Maya
+- Video editing in After Effects
 - Multiplayer in Unity using Photon(PUN2)
 - Playfab and Firebase Login
 - making DCC packages in Unity
@@ -25,6 +28,7 @@ Being a student developer for over 3 years now, I have picked up my fair share o
 - Unity Game Engine
 - Unreal Game Engine
 - Blender
+- Autodesk Maya
 - Adobe Photoshop
 
 # Visual Effects

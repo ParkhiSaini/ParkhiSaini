@@ -39,23 +39,7 @@ Being a student developer for over 3 years now, I have picked up my fair share o
 - Unity VFX Graph
 - Adobe Photoshop
 
-# Statistics
-[![wakatime](https://wakatime.com/badge/user/659f56cf-9635-4f70-9140-7dbdc934cfec.svg)](https://wakatime.com/@659f56cf-9635-4f70-9140-7dbdc934cfec)
-<!--START_SECTION:waka-->
 
-```txt
-From: 21 December 2022 - To: 31 March 2024
-
-Total Time: 236 hrs 18 mins
-
-C#           178 hrs 35 mins ███████████████████░░░░░░   75.58 %
-JavaScript   23 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-CSS          20 hrs 48 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-Other        2 hrs 55 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-JSON         2 hrs 41 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-```
-
-<!--END_SECTION:waka-->
 
 
 
